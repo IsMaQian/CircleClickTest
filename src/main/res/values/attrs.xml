@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ControllerView">
+
+        <attr name="pro_line" format="float"/>
+        <attr name="pro_color" format="color"/>
+        <attr name="click_line" format="float"/>
+        <attr name="complete_color" format="color"/>
+
+        <attr name="upper_txt_size" format="float" />
+        <attr name="upper_txt_color" format="color" />
+        <attr name="upper_txt_change_size" format="float" />
+        <attr name="upper_txt_change_color" format="color" />
+
+        <attr name="down_txt_size" format="float" />
+        <attr name="down_txt_color" format="color" />
+        <attr name="down_txt_change_size" format="float" />
+
+        <attr name="pro_circle_size" format="float" />
+        <attr name="pro_circle_color" format="color" />
+        <attr name="click_circle_size" format="float" />
+        <attr name="click_circle_color" format="color" />
+
+    </declare-styleable>
+</resources>
